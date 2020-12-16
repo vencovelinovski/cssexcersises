@@ -1,2 +1,2 @@
-# cssexcersises
-cssexcersises
+# cssexercises
+cssexercises
